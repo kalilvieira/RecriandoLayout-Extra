@@ -1,0 +1,108 @@
+body{
+    text-align: center;  
+    
+}
+
+#main{
+    padding-top: 64px;
+    padding-bottom: 64px;
+    width: 626px;
+    height: 486px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img1 {
+    width: 350px;
+    height: 238px;
+}
+
+h1{
+color: #3F3D56;
+text-align: center;
+font-family: Dosis;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+h1 span{
+    font-weight: bold;
+    color: #EE24FF;
+}
+
+p{
+    width: 540px;
+    color: #828282;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    padding-left: 50px;
+    padding-right: 36;
+    padding-top: 16px;
+}
+
+strong{
+
+    color: #3F3D56;
+    font-family: Open Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+
+}
+
+b{
+color: #828282;
+font-family: Open Sans;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px;
+}
+
+#footer{
+    width: 1024px;
+    height: 176px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 16px;
+}
+
+#footer a {
+width: 66px;
+height: 15.169px;
+text-decoration: none;
+font-weight: bold;
+color: #3F3D56;
+text-align: center;
+font-family: Open Sans;
+}
+
+#footer a + a {
+margin-left: 42px;
+}
+
+#line{
+width: 391px;
+height: 0px;
+stroke-width: 1px;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid #ECEFF2;
+}
+
+#wave {
+    width: 1024px;
+    height: 104px;
+    bottom: 0px;
+    left: auto;
+    padding-top: 40.83px; 
+
+}
